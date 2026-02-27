@@ -29,4 +29,4 @@ This privacy policy applies to the Android version of the game.
 
 ## Contact
 For any questions regarding this privacy policy, you can contact us at:  
-📧 your@email.com
+📧 d0un.games@gmail.com
