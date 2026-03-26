@@ -2,7 +2,7 @@
 
 Last updated: February 27, 2026
 
-One Core is a game developed by D0un.  
+One Core is a game developed by D0UN.  
 This privacy policy applies to the Android version of the game.
 
 ## Data collection
